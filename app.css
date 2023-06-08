@@ -3764,6 +3764,14 @@ COVER
     color: #fff;
     margin-bottom: 1rem;
     font-size: 30px; }
+  .cover h2 {
+    color: #fff;
+    margin-bottom: 1rem;
+   }
+   .cover h3 {
+    color: #fff;
+    margin-bottom: 1rem;
+   }
   .cover li {
     font-size: 18px;
     font-family: "Overpass", "Open Sans", Roboto, Arial, sans-serif;
